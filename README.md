@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I’m João Pedro Guizelini</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🔭  I’m currently working on **Escola SEB**
+- 🔭  I’m currently open to work
 
-- 🌱  I’m currently learning **Full Stack Development**
+- 🌱  I’m currently learning **Python**
 
-- 📫  How to reach me **jpguizel@gmail.com**
+- 📫  How to reach me **jpguizel02@gmail.com**
 
 
 <div align="center">
