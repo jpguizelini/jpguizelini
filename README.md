@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m João Pedro Guizelini</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🔭  I’m currently open to work
+- 🔭  Open to work
 
 - 🌱  I’m currently learning **Python**
 
