@@ -20,8 +20,9 @@
   <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="React" height="30" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
+  <img align="center" alt="React" height="30" src="https://img.icons8.com/?size=100&id=HOqGCOyHDbd4&format=png&color=000000" />
+ 
   </div>
 
 ##
