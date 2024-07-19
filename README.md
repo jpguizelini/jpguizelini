@@ -3,7 +3,7 @@
 
 - 🔭  Open to work
 
-- 🌱  I’m currently learning **Solidity and Scrypto**
+- 🌱  I’m currently learning **Solidity**
 
 - 📫  How to reach me **ja1dev@proton.me**
 
