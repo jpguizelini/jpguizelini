@@ -20,6 +20,5 @@
 ##
 
 <div align="center"> 
-  <a href="mailto:ja1dev@proton.me"><img src="https://camo.githubusercontent.com/0678b869e4c9e430e45092206a560dca96e83d7e74cc46b08856d03f4e779ce1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50726f746f6e2b4d61696c26636f6c6f723d364434414646266c6f676f3d50726f746f6e2b4d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-guizelini-0b5744251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
