@@ -13,7 +13,7 @@
 
 - 🔭 **Open to work** and new projects!
 - 🌱 Currently mastering **Solidity** for blockchain development.
-- 💬 Feel free to reach out at **ja1dev@proton.me**
+- 💬 Feel free to reach out at **jpguizel@proton.me**
 - 🎯 Passionate about decentralized technologies and Web3.
 
 ##
