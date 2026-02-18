@@ -31,18 +31,5 @@ Currently pursuing Software Engineering degree while shipping production-ready f
 - 💳 `smart-contract-marketplace` – NFT marketplace dApp with ERC-721 + React frontend
 - ⚡ `automation-engine` – Backend automation service with webhooks + PostgreSQL
 
-## Where to Find Me
-
-- LinkedIn: [linkedin.com/in/jpguizelini](https://www.linkedin.com/in/jpguizelini)
-- GitHub: [github.com/jpguizelini](https://github.com/jpguizelini)
-
-## Fun Facts
-
-- Early riser who codes at 5AM while most devs are still dreaming about coffee ☕
-- Obsessed with clean architecture that survives 10x growth
-- Love turning complex backend systems into simple, beautiful APIs
-- Always shipping: if I'm not coding, I'm probably documenting the code I just wrote
-
-***
 
 **💼 Open to full-stack or web3 opportunities** – Let's build something that scales! 🚀
