@@ -1,11 +1,48 @@
-# 👋 Hello World!
+# Hey there! 👋
 
-Sou João Pedro, desenvolvedor focado em backend, APIs REST e integrações.  
-Atualmente tenho trabalhado com Node.js, NestJS, React/Next.js, bancos de dados (PostgreSQL e MongoDB), automação com n8n e desenvolvimento de smart contracts em Solidity com Foundry.
+I’m João Pedro Guizelini, a full-stack developer based in São Paulo, Brazil with backend focus and web3 expertise.  
+I build scalable full-stack applications, robust APIs, and web3 solutions that bridge traditional software with decentralized tech.
 
-Aqui no GitHub você encontra projetos que exploram:
-- APIs e serviços backend
-- Integrações com IA (LLMs) e automações
-- Experimentos com Web3 e smart contracts
+If a full-stack project, backend API, or web3 integration idea hits me, I’ll spin up the server, wire up the database, prototype smart contracts, and have a working MVP running locally in no time.
 
-Sinta-se à vontade para explorar os repositórios. 🙂
+## Tech Stack & Tools
+
+- **Languages**: TypeScript, JavaScript, Solidity
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js (NestJS/Express), REST APIs, web integrations
+- **Web3**: Hardhat/Foundry, Ethers.js/Viem, Wagmi, smart contracts
+- **Databases**: PostgreSQL (Prisma), MongoDB
+- **DevOps**: Docker, Git
+- **Daily drivers**: Cursor/VS Code, Linux, Postman, Beekeeper Studio, Obsidian
+
+## What I Do
+
+- Full-stack development with strong backend architecture and clean TypeScript codebases
+- API design & integrations (payments, webhooks, third-party services)
+- Web3 dApps, smart contracts, and blockchain <> traditional app bridges
+- Performance optimization, security hardening, and scalable system design
+
+Currently pursuing Software Engineering degree while shipping production-ready full-stack + web3 projects.
+
+## Highlighted Projects (work in progress) 🛠️
+
+- 🔗 `your-saas-app` – Full-stack SaaS with Next.js + NestJS backend + Stripe payments
+- 🧠 `web3-wallet-api` – Backend API for multi-chain wallet operations + Ethers.js
+- 💳 `smart-contract-marketplace` – NFT marketplace dApp with ERC-721 + React frontend
+- ⚡ `automation-engine` – Backend automation service with webhooks + PostgreSQL
+
+## Where to Find Me
+
+- LinkedIn: [linkedin.com/in/jpguizelini](https://www.linkedin.com/in/jpguizelini)
+- GitHub: [github.com/jpguizelini](https://github.com/jpguizelini)
+
+## Fun Facts
+
+- Early riser who codes at 5AM while most devs are still dreaming about coffee ☕
+- Obsessed with clean architecture that survives 10x growth
+- Love turning complex backend systems into simple, beautiful APIs
+- Always shipping: if I'm not coding, I'm probably documenting the code I just wrote
+
+***
+
+**💼 Open to full-stack or web3 opportunities** – Let's build something that scales! 🚀
